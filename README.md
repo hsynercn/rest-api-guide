@@ -38,4 +38,4 @@ Choice depends on the specific conditions. Team structure, project requirements,
 
 Quality gates could be a tool to ensure the quality of the code. Commonly we can use static code analysis tools, unit tests, integration tests, etc. to ensure the quality of the code. For unit testing we can pay attention to code coverage rates, for static code analysis we can score the code. Even with these measures we need to pay attention to overall state of the application. For example, if we have a lot of unit tests which takes a lot of time to run, developers will spend a lot of time on CI/CD pipelines. If we introduce FLAKY tests, it will break the CI/CD pipeline consistency and cause more problems. So we need to pay attention to the overall state of the application, we shouldn't follow the practices blindly.
 
-These types of side effects point out a larger problem within the application architecture. It could be a sign of a monolithic application. 
+These types of side effects point out a larger problem within the application architecture. It could be a sign of a monolithic application.
