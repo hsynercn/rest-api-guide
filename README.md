@@ -32,7 +32,7 @@ In the recent years NestJs has become a popular framework for NodeJs. It provide
 
 We can say Ruby on Rails provides a standard way of building web applications.
 
-Choice depends on the specific conditions. Team structure, project requirements, key targets should affect the decision.
+Design choice depends on the specific conditions. Team structure, project requirements, key targets should affect the decision.
 
 ## Quality
 
